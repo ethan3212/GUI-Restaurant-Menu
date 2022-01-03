@@ -1,0 +1,10 @@
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\bin\Debug\Manis_FinalExam_Q1_Restaurant.exe.config
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\bin\Debug\Manis_FinalExam_Q1_Restaurant.exe
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\bin\Debug\Manis_FinalExam_Q1_Restaurant.pdb
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\obj\Debug\Manis_FinalExam_Q1_Restaurant.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\obj\Debug\Manis_FinalExam_Q1_Restaurant.Form1.resources
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\obj\Debug\Manis_FinalExam_Q1_Restaurant.Properties.Resources.resources
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\obj\Debug\Manis_FinalExam_Q1_Restaurant.csproj.GenerateResource.cache
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\obj\Debug\Manis_FinalExam_Q1_Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\obj\Debug\Manis_FinalExam_Q1_Restaurant.exe
+C:\Users\ethan\source\repos\Manis_FinalExam_Q1_Restaurant\obj\Debug\Manis_FinalExam_Q1_Restaurant.pdb
